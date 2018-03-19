@@ -1,0 +1,3 @@
+(load "pong.lisp")
+
+(main)
